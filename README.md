@@ -46,3 +46,18 @@ This repository contains the full source code for the CatSoftShop ecosystem:
 * **Version Control:** Git & GitHub
 * **Environment Management:** Dotenv (.env)
 * **Large File Handling:** Git LFS (for UI preview MP4s)
+
+
+## WEB view
+
+
+https://github.com/user-attachments/assets/69b32b53-32ea-4fe6-8ac2-d4e97a7d5bb0
+
+
+## MOBILE view
+
+
+https://github.com/user-attachments/assets/6f88e6a5-338e-4207-b3e6-42737a296407
+
+
+
