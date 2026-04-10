@@ -11,7 +11,6 @@ This repository contains the full source code for the CatSoftShop ecosystem:
 * **`WEBAPP/`**: The frontend dashboard for administrators/shop owners.
 * **`MOBILAPP/`**: The cross-platform mobile application for customers.
 * **`SERVER/`**: The backend API (Node.js/Express) handling data and logic.
-* **`lib/`**: Shared libraries or assets used across the project.
 
 ---
 
@@ -28,3 +27,22 @@ This repository contains the full source code for the CatSoftShop ecosystem:
    ```bash
    git clone [https://github.com/kadarkadikadey/CATSOFTSHOP.git](https://github.com/kadarkadikadey/CATSOFTSHOP.git)
    cd CATSOFTSHOP
+   ```
+
+## 🛠️ Tech Stack
+
+### Frontend (Web & Mobile)
+* **Web Dashboard:** [React.js](https://reactjs.org/) / [Next.js](https://nextjs.org/) (CSS for styling)
+* **Mobile Application:** [Flutter](https://flutter.dev/) (Dart) or [React Native](https://reactnative.dev/)
+* **UI/UX:** Custom CSS and Responsive Design for Mobile/Web views.
+
+### Backend (Server)
+* **Runtime:** [Node.js](https://nodejs.org/)
+* **Framework:** [Express.js](https://expressjs.com/) or [NestJS](https://nestjs.com/)
+* **Database:** [Firebase](https://firebase.google.com/) (Admin SDK integrated)
+* **Authentication:** Firebase Auth / JWT
+
+### Tools & DevOps
+* **Version Control:** Git & GitHub
+* **Environment Management:** Dotenv (.env)
+* **Large File Handling:** Git LFS (for UI preview MP4s)
