@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619166651682",
+    "project_id": "catsoftshop",
+    "storage_bucket": "catsoftshop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619166651682:android:cd761df96c7e6e3504817b",
+        "android_client_info": {
+          "package_name": "com.example.cat_soft_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKUqAaHj_Jbp9aa1n9K9rZ3KfHdip3ugI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
