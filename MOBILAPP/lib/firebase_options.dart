@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDKUqAaHj_Jbp9aa1n9K9rZ3KfHdip3ugI',
-    appId: '1:619166651682:android:cd761df96c7e6e3504817b',
-    messagingSenderId: '619166651682',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'catsoftshop',
-    storageBucket: 'catsoftshop.firebasestorage.app',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA3kyFXjZalnrGrFyzkSlAqb5Rhmc69A2c',
-    appId: '1:619166651682:ios:9844e34331870ced04817b',
-    messagingSenderId: '619166651682',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'catsoftshop',
-    storageBucket: 'catsoftshop.firebasestorage.app',
+    storageBucket: '',
     iosBundleId: 'com.example.catSoftShop',
   );
 }
